@@ -82,7 +82,6 @@ nav button a{
     background: transparent;
 }
 .pillars{
-    /* margin-top: 80px; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -283,7 +282,6 @@ table select{
     display: flex;
     flex-direction: column;
     gap: 32px;
-    /* justify-content: center; */
     align-items: center;
     text-align: center;
 }
