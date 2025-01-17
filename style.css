@@ -392,6 +392,7 @@ table select{
     text-align: left;
     color: rgba(14, 14, 14, 0.3);
     width: 600px;
+    outline-color: #09A15C;
 }
 .submit-btn{
     border-radius: 0px 8px 8px 0px;
